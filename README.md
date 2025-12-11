@@ -45,14 +45,7 @@ git clone https://github.com/YourUsername/GameOfLife.git
 cd GameOfLife
 ```
 
-### 3. Build & Run
-
-#### Option A: Using VS Code (Recommended)
-This project includes a `.vscode/tasks.json` pre-configured for the paths above.
-1.  Open the project folder in VS Code.
-2.  Press `Ctrl + Shift + B` to Build and Run.
-
-#### Option B: Using Code::Blocks
+### 3. Build & Run using Code::Blocks
 If you prefer using an IDE, follow these manual configuration steps:
 
 1.  Open Code::Blocks and create a new **Console C Project**.
