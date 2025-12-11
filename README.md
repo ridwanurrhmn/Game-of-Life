@@ -2,7 +2,7 @@
 
 A high-performance implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) built in C using the **Raylib** graphics library. This project features a fully interactive grid where users can draw patterns, pause the simulation, and randomize the board.
 
-![Game Simulation running with random patterns](image_d007d7.png)
+![Game Simulation running with random patterns]<img width="899" height="627" alt="paste 2" src="https://github.com/user-attachments/assets/835d33c7-2c3b-4ba3-9802-7aceba7deba1" />
 
 ## 🌟 Features
 * **Interactive Editor:** Start with a blank grid. Left-click to draw living cells, Right-click to erase.
@@ -11,7 +11,7 @@ A high-performance implementation of [Conway's Game of Life](https://en.wikipedi
 * **Optimized Rendering:** Runs efficiently using Raylib's hardware acceleration.
 * **Grid Visualization:** Auto-adjusting grid lines to visualize dead cells vs. live cells.
 
-![Blank Setup Mode for drawing patterns](image_d00a9c.png)
+![Blank Setup Mode for drawing patterns]<img width="901" height="624" alt="paste 1" src="https://github.com/user-attachments/assets/d471d1e4-0f94-47fe-80b9-0c02b131cb3d" />
 *Screenshot: The interactive setup mode ready for user input.*
 
 ## 🛠️ Prerequisites
