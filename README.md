@@ -12,6 +12,7 @@ A high-performance implementation of [Conway's Game of Life](https://en.wikipedi
 * **Grid Visualization:** Auto-adjusting grid lines to visualize dead cells vs. live cells.
 
 ![Blank Setup Mode for drawing patterns]<img width="901" height="624" alt="paste 1" src="https://github.com/user-attachments/assets/d471d1e4-0f94-47fe-80b9-0c02b131cb3d" />
+
 *Screenshot: The interactive setup mode ready for user input.*
 
 ## 🛠️ Prerequisites
