@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1764438437 source:d:\coding\gameoflife\main.c
+	"raylib.h"
+	<stdlib.h>
+
+1731932645 c:\raylib\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
