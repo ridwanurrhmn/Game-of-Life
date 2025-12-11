@@ -38,5 +38,5 @@ This project is configured with specific paths in `.vscode/tasks.json`. **You mu
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/ridwanurrhmn/GameOfLife.git](https://github.com/ridwanurrhmn/GameOfLife.git)
-cd GameOfLife
+git clone [https://github.com/ridwanurrhmn/Game-of-Life.git](https://github.com/ridwanurrhmn/Game-of-Life.git)
+cd Game-of-Life
