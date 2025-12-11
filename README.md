@@ -42,8 +42,8 @@ This project is configured with specific paths. **You must follow these installa
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/GameOfLife.git
-cd GameOfLife
+git clone https://github.com/ridwanurrhmn/Game-of-Life.git
+cd Game-of-Life
 ```
 
 ### 3. Build & Run using Code::Blocks
